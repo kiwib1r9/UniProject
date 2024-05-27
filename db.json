@@ -1,0 +1,37 @@
+{
+    "projects": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "ARQ1"
+        },
+        {
+            "id": 2,
+            "name": "Teoria da Computação"
+        },
+        {
+            "id": 3,
+            "name": "Computação Gráfica"
+        },
+        {
+            "id": 4,
+            "name": "Linguagens Formais e Autômatos"
+        },
+        {
+            "id": 5,
+            "name": "CPD"
+        },
+        {
+            "id": 6,
+            "name": "Artes"
+        },
+        {
+            "id": 7,
+            "name": "Coreano"
+        },
+        {
+            "id": 8,
+            "name": "Bolsa e Trabalho"
+        }
+    ]
+}
