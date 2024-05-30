@@ -162,6 +162,17 @@
       "time": "12",
       "prazo": 0,
       "tarefas": []
+    },
+    {
+      "id": "16c7",
+      "category": {
+        "id": "6",
+        "name": "Artes"
+      },
+      "time": "1",
+      "name": "sdsa",
+      "prazo": 0,
+      "tarefas": []
     }
   ],
   "categories": [
