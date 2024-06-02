@@ -1,177 +1,33 @@
 {
   "projects": [
     {
-      "id": "5a59",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "7578",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "607e",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "bdb5",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "b134",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "98e4",
-      "prazo": 0,
-      "tarefas": [],
-      "name": "a",
-      "time": "0"
-    },
-    {
-      "id": "023a",
-      "prazo": 0,
-      "tarefas": [],
-      "name": "a",
-      "time": "0"
-    },
-    {
-      "id": "50fe",
-      "prazo": 0,
-      "tarefas": [],
-      "name": "a",
-      "time": "0"
-    },
-    {
-      "id": "a2fc",
-      "prazo": 0,
-      "tarefas": [],
-      "name": "aeaeeaeaeaee",
-      "time": "8"
-    },
-    {
-      "id": "2dca",
-      "category": {
-        "id": "5",
-        "name": "CPD"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "0bbd",
-      "category": {
-        "id": "5",
-        "name": "CPD"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "720a",
-      "category": {
-        "id": "5",
-        "name": "CPD"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "69a7",
-      "category": {
-        "id": "5",
-        "name": "CPD"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "a1ed",
-      "category": {
-        "id": "5",
-        "name": "CPD"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "ce08",
-      "category": {
-        "id": "7",
-        "name": "Coreano"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "655c",
-      "category": {
-        "id": "7",
-        "name": "Coreano"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "9f0c",
-      "category": {
-        "id": "7",
-        "name": "Coreano"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "bad4",
-      "category": {
-        "id": "7",
-        "name": "Coreano"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "65f2",
-      "category": {
-        "id": "7",
-        "name": "Coreano"
-      },
-      "name": "teste",
-      "time": "12",
-      "prazo": 0,
-      "tarefas": []
-    },
-    {
-      "id": "16c7",
+      "id": "ba32",
+      "name": "primeiro teste",
+      "time": 0,
       "category": {
         "id": "6",
         "name": "Artes"
       },
-      "time": "1",
-      "name": "sdsa",
-      "prazo": 0,
+      "tarefas": []
+    },
+    {
+      "id": "3345",
+      "name": "teste 2",
+      "time": 0,
+      "category": {
+        "id": "8",
+        "name": "Bolsa e Trabalho"
+      },
+      "tarefas": []
+    },
+    {
+      "id": "0cfc",
+      "name": "testeee",
+      "time": 0,
+      "category": {
+        "id": "3",
+        "name": "Computação Gráfica"
+      },
       "tarefas": []
     }
   ],

@@ -1,8 +1,8 @@
 import styles from './ProjectForm.module.css'
 
-import Input from './Input'
-import Select from './Select'
-import SubmitBtn from './SubmitBtn'
+import Input from '../form/Input'
+import Select from '../form/Select'
+import SubmitBtn from '../form/SubmitBtn'
 
 import {useEffect, useState} from 'react'
 
