@@ -4,12 +4,15 @@ import Container from '../layout/Container'
 import Message from '../layout/Message'
 import LinkButton from '../layout/LinkButton'
 import ProjectCard from '../project/ProjectCard'
+import Loading from '../layout/Loading'
 
 import { useLocation } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 
 function Projects(){
     const [projects, setProjects] = useState([])
+
+    const [removeLoading, setRemoveLoading] = useState(false)
 
     const location = useLocation()
     let message = ''
@@ -27,6 +30,7 @@ function Projects(){
             .then((resp) => resp.json())
             .then((data) => {
                 setProjects(data)
+                setRemoveLoading(true)
             })
             .catch((err) => console.log(err))
     }, [])
@@ -43,6 +47,7 @@ function Projects(){
                     projects.map((project) => (
                         <ProjectCard name={project.name} id={project.id} time={project.time} category={project.category.name} key={project.id}/>
                     ))}
+                {!removeLoading && <Loading/>}
             </Container>
         </div>
     )
