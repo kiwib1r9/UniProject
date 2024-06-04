@@ -1,32 +1,22 @@
 {
   "projects": [
     {
-      "id": "ba32",
-      "name": "primeiro teste",
+      "id": "6694",
+      "name": "projis 1",
       "time": 0,
       "category": {
-        "id": "6",
-        "name": "Artes"
+        "id": "7",
+        "name": "Coreano"
       },
       "tarefas": []
     },
     {
-      "id": "3345",
-      "name": "teste 2",
-      "time": 0,
+      "id": "daa0",
+      "name": "dsad",
+      "time": "12",
       "category": {
-        "id": "8",
-        "name": "Bolsa e Trabalho"
-      },
-      "tarefas": []
-    },
-    {
-      "id": "0cfc",
-      "name": "testeee",
-      "time": 0,
-      "category": {
-        "id": "3",
-        "name": "Computação Gráfica"
+        "id": "7",
+        "name": "Coreano"
       },
       "tarefas": []
     }

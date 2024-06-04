@@ -9,7 +9,7 @@ function NewProject(){
 
     function createPost(project){
         // Inicializaçao
-        project.time = 0
+        //project.time = 0
         project.tarefas = []
 
         fetch('http://localhost:5000/projects', {
