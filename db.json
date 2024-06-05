@@ -19,6 +19,16 @@
         "name": "Coreano"
       },
       "tarefas": []
+    },
+    {
+      "id": "8c2b",
+      "name": "revisao",
+      "time": "11",
+      "category": {
+        "id": "2",
+        "name": "Teoria da Computação"
+      },
+      "tarefas": []
     }
   ],
   "categories": [
